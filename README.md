@@ -1,5 +1,5 @@
 
-# Exact Rarity NFT Art generator 🔥
+# Exact Rarity NFT Art generator by Yusoph-Dev🔥
 
 ![](https://raw.githubusercontent.com/damascus08/Exact-Rarity-NFT-Art-generator/main/banner.gif)
 
@@ -68,7 +68,7 @@ The program will output all the images in the `build/Edition[#]/images` director
     { "trait_type": "accessories", "value": "mace" },
     { "trait_type": "headgear", "value": "officer" }
   ],
-  "compiler": "Exact Rarity Engine"
+  "compiler": "Exact Rarity NFT Art generator by Yusoph-Dev"
 }
 ```
 

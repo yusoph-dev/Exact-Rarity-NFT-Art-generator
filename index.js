@@ -238,7 +238,7 @@ if (finalLayers.length > 0) {
                 edition: noOfFolder,
                 date: new Date().getTime(),
                 total_weight: totalWeight,
-                compiler: 'Exact Rarity NFT Art generator',
+                compiler: 'Exact Rarity NFT Art generator by Yusoph-Dev',
                 attributes: attributes,
                 // background_color: 'f0f0f0',
                 // animation_url: '',
