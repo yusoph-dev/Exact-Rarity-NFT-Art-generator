@@ -1,7 +1,7 @@
 
 # Exact Rarity NFT Art generator 🔥
 
-![](https://github.com/damascus08/exact-nft-rarity/banner.jpg)
+![](https://github.com/damascus08/Exact-Rarity-NFT-Art-generator/banner.jpg)
 
 Create generative art by using the sharp and node js. Before you use the generation engine, make sure you have node.js(v10.18.0) installed.
 
