@@ -1,0 +1,21 @@
+{
+  "name": "custom_rarity",
+  "version": "1.0.0",
+  "description": "nft generate via custom rarity percentages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yusoph",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "filehound": "^1.17.5",
+    "fs": "^0.0.1-security",
+    "globby": "^13.1.1",
+    "json-2-csv": "^3.17.0",
+    "path": "^0.12.7",
+    "sha1": "^1.1.1",
+    "sharp": "^0.30.0"
+  }
+}

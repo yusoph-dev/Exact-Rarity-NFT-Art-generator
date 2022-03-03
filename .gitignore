@@ -1,0 +1,10 @@
+
+build/
+# dist/
+.npm
+.DS_Store
+
+# Output of 'npm pack'
+\*.tgz
+node_modules/
+jspm_packages/
