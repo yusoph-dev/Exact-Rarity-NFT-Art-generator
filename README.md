@@ -1,7 +1,7 @@
 
 # Exact Rarity NFT Art generator 🔥
 
-![](https://raw.githubusercontent.com/damascus08/Exact-Rarity-NFT-Art-generator/main/banner.png)
+![](https://raw.githubusercontent.com/damascus08/Exact-Rarity-NFT-Art-generator/main/banner.gif)
 
 ## ASSETS USED FROM "https://nft-inator.com/"
 

@@ -17,7 +17,7 @@ if (!fs.existsSync(mainBuildDir)) {
 var noOfFolder = fs.readdirSync(mainBuildDir).length;
 
 // SET NO. OF NFT's TO GENERATE
-var noOfnfts = 10;
+var noOfnfts = 100;
 
 const assets_main = Filehound.create()
     .path("assets_main")
